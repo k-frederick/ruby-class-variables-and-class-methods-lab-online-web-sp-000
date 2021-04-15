@@ -21,6 +21,7 @@ class Song
     @@genres.uniq
   end
   def self.genre_count
+    genre_count = Hash.new(0)
     
   end
   def self.artist_count
