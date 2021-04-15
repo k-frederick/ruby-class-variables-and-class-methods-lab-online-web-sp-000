@@ -1,4 +1,5 @@
 class Song
+  @@count = 0
 #   def name=(name)
 #     @name = name
 #   end
