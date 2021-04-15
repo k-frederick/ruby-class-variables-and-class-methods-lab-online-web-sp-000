@@ -1,5 +1,5 @@
 class Song
-  @@count = 0
+  #@@count = 0
 #   def name=(name)
 #     @name = name
 #   end
@@ -18,7 +18,7 @@ class Song
 #   def genre
 #     @genre
 #   end
-  def self.count
-    @@count
-  end
+  # def self.count
+  #   @@count
+  # end
 end
