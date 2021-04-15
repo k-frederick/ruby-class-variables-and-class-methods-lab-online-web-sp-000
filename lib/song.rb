@@ -18,6 +18,6 @@ class Song
 #     @genre
 #   end
   def self.count
-    @@count = 0
+    @@count
   end
 end
